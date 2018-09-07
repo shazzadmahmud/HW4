@@ -29,5 +29,4 @@ public class Mobile {
     public void setMobileFeatures(String mobileFeatures) {
         MobileFeatures = mobileFeatures;
     }
- 
 }
